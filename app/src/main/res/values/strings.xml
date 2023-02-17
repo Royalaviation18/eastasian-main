@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EAS2</string>
+    <string name="navigationDrawerOpen">Open navigation Drawer</string>
+    <string name="navigationDrawerClose">Close navigation Drawer</string>
+</resources>
